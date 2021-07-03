@@ -9,7 +9,7 @@ I am a beginner and want to be a skilful and interesting person, to create somet
 - 🔭 I’m currently studying at Tianjin University, the first university in modern China.
 - 🌱 I’m currently learning Java & Swift, and want to learn anything interesting.
 - 🤔 I am going to learn more skills about front-end and back-end, as well as Android and iOS software development skills.
-- ❤️ I like eating 🍈, playing 🎱, sleeping in 🛌 and watching 📺.
+- ❤️ I like , eating 🍕, playing 🎱, sleeping in 🛌 and watching 📺.
 - 💬 Be free to ask me about anything [here](https://github.com/SuperPung/SuperPung/issues).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperPung&show_icons=true&icon_color=0078e7&title_color=0078e7">
