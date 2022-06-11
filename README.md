@@ -1,4 +1,4 @@
-### Hi there, I'm [SUPER](https://superpung.xyz). 👋
+### Hi there, I'm [SUPER](https://repus.cn). 👋
 
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=SuperPung.SuperPung">
 
@@ -7,8 +7,8 @@ I am a learning student from China. I like open source and all interesting thing
 I am a beginner and want to be a skilful and interesting person, to create something that can be remembered by others.
 
 - 🔭 I’m currently studying at Tianjin University, the first university in modern China.
-- 🌱 I’m currently learning swiftUI, and want to learn anything interesting.
-- 🤔 I am going to learn more skills about front-end and back-end, as well as Android and iOS software development skills.
+- 🌱 I’m currently learning Machine Learning and web development, and want to learn anything interesting.
+- 🤔 I am going to learn more skills about Deep Learning and software development...
 - ❤️ I like , eating 🍕, playing 🎱, sleeping in 🛌 and watching 📺.
 - 💬 Be free to ask me about anything [here](https://github.com/SuperPung/SuperPung/issues).
 
