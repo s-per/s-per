@@ -1,4 +1,4 @@
-### Hi there, I'm [SUPER](https://repus.cn). 👋
+### Hi there, I'm [SUPER](https://repus.me). 👋
 
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=SuperPung.SuperPung">
 
