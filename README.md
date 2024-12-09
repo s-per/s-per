@@ -7,6 +7,7 @@
     <a href="https://bsky.app/profile/superpung.com">bluesky</a> .
     <a href="https://t.me/repusxbot">telegram</a> .
     <a href="https://instagram.com/repusx">instagram</a> .
+    <a href="https://www.linkedin.com/in/xp1i">linkedin</a> .
     <a href="https://open.spotify.com/user/a4qyb72aaecpn1jgv1vpcx9at">music</a>
   </samp>
 </p>
